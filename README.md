@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-000000?&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
 
-[![Grafana](https://img.shields.io/badge/Grafana-%23fb9d5a.svg?logo=grafana&logoColor=white)]()
-[![Kibana](https://img.shields.io/badge/Kibana-%23ef5098.svg?logo=grafana&logoColor=white)]()
-[![Prometheus](https://img.shields.io/badge/Prometheus-%23e6512c.svg?logo=prometheus&logoColor=white)]()
+[![Grafana](https://img.shields.io/badge/Grafana-%23fb9d5a.svg?logo=grafana&logoColor=white)](https://github.com/grafana/grafana)
+[![Kibana](https://img.shields.io/badge/Kibana-%23ef5098.svg?logo=kibana&logoColor=white)](https://github.com/elastic/kibana)
+[![Prometheus](https://img.shields.io/badge/Prometheus-%23e6512c.svg?logo=prometheus&logoColor=white)](https://github.com/prometheus/prometheus)

@@ -1,8 +1,20 @@
 ### Hi there I am Kevin Song👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KEVISONG)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/KEVISONG)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KEVISONG6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kkevisong@gmail.com)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198119948205/)
+
+<img align="right" src="https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif" width="280"/>
+
+---
+
 - 🔭 I’m currently working on cloud native observability.
 - 👯 I’m looking to collaborate on all the amazing Open Source projects.
 - ⚡ Fun fact: I ❤️ GAMING and RUNNING.
+
+---
 
 <!--
 **KEVISONG/KEVISONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +30,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table border="0">
+    <tr>
+        <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=KEVISONG&show_icons=true&count_private=true&hide_title=true&theme=chartreuse-dark"></center></td>
+        <td><center><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KEVISONG&count_private=true&layout=compact&theme=chartreuse-dark" /></center></td>
+    </tr>
+</table>
 
 ### Languages and Tools:
 

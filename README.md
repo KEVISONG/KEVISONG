@@ -2,9 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KEVISONG)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/KEVISONG)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KEVISONG6)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KKEVISONG)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kkevisong@gmail.com)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198119948205/)
 
 <img align="right" src="https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif" width="280"/>
 

@@ -5,6 +5,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KKEVISONG)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kkevisong@gmail.com)
 
+[![PSN](https://img.shields.io/badge/PSN:KKEVISONG-0070d1?logo=playstation&logoColor=white)](https://www.playstation.com/)
+[![Discord](https://img.shields.io/badge/Discord:KEVISONG%232372-5865f2?logo=discord&logoColor=white)](https://discord.com/)
+
 <img align="right" src="https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif" width="280"/>
 
 ---
